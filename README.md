@@ -26,8 +26,9 @@
 
 ### 📫 Connect with Me  
 [![Website](https://img.shields.io/badge/Website-GearX-blue?style=for-the-badge&logo=google-chrome)](https://www.gearx.net)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40findbips-1DA1F2?style=for-the-badge&logo=twitter)](#)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-%40findbips-1DA1F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/findbips)  
+[![Linkedin](https://img.shields.io/badge/Linkedin-%40findbips-1DA1F2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/biplobsutradhar)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bsd.biplob@gmail.com)  
 
 ---
 
