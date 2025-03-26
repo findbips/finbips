@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://www.gearx.net"><img src="https://img.shields.io/badge/Website-GearX-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.facebook.com/findbips"><img src="https://img.shields.io/badge/Facebook-%40findbips-1DA1F2?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/findbips"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/biplobsutradhar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bsd.biplob@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
 </p>
 
@@ -26,8 +27,8 @@
 
 ### 📫 Connect with Me  
 [![Website](https://img.shields.io/badge/Website-GearX-blue?style=for-the-badge&logo=google-chrome)](https://www.gearx.net)  
-[![Facebook](https://img.shields.io/badge/Facebook-%40findbips-1DA1F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/findbips)  
-[![Linkedin](https://img.shields.io/badge/Linkedin-%40findbips-1DA1F2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/biplobsutradhar)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/findbips) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplobsutradhar)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bsd.biplob@gmail.com)  
 
 ---
