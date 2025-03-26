@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://www.gearx.net"><img src="https://img.shields.io/badge/Website-GearX-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-%40findbips-1DA1F2?style=flat-square&logo=twitter"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.facebook.com/findbips"><img src="https://img.shields.io/badge/Twitter-%40findbips-1DA1F2?style=flat-square&logo=facebook"></a>
+  <a href="mailto:bsd.biplob@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
